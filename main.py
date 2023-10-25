@@ -17,7 +17,6 @@ def encode_pass(password):
 while True:
 
     print("Menu")
-    print("hi")
     print("------------")
     print("1. Encode\n2. Decode\n3. Quit\n")
     choice = (int(input("Please enter an option: ")))
